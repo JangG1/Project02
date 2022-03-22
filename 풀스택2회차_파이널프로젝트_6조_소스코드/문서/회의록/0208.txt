@@ -1,0 +1,29 @@
+파파고 이동곤
+OCR
+희태 STT
+장지원 TTS
+
+MyVoice
+MyNote
+MyMedia
+MyTrans
+변환내역
+
+
+화면설계
+DB설계
+토요일 오후 1시
+
+로그인
+네이버, 구글 API
+
+MyPage
+ -MyVoice 목적지
+ -MyNote 목적지
+ -MyMedia 출발지
+ -MyTrans 목적지
+
+음성To문서
+문서To음성
+이미지To문서
+번역

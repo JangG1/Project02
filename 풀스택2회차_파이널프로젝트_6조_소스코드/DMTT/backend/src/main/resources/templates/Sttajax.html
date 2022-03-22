@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form id="upload-file-form">
+    <label for="upload-file-input">Upload your file:</label>
+    <input id="upload-file-input" type="file" name="file" accept="*" />
+    <input type="radio" name="lang" value="Kor">한국어
+    <input type="radio" name="lang" value="Jpn">일본어
+    <input type="radio" name="lang" value="Chn">중국어
+    <button type="button" onclick="uploadFile();">업로드</button>
+    <button type="sla">전환</button>
+</form>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    function uploadFile() {
+  $.ajax({
+    url: `/api/Stt/`,
+    type: "POST",
+    data: new FormData($("#upload-file-form")[0]),
+    enctype: 'multipart/form-data',
+    processData: false,
+    contentType: false,
+    cache: false,
+    success: function () {
+      console.log(new FormData($("#upload-file-form")[0]));
+    },
+    error: function () {
+      // Handle upload error
+      // ...
+    }
+  });
+}
+</script>
+</body>
+</html>

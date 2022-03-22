@@ -1,0 +1,4 @@
+axios
+vuex
+vuex-presistedstate
+router
