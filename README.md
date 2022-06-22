@@ -51,7 +51,7 @@ Demo :
 1. 메인화면<br>
 <img width="1439" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/91955876/175069265-6fa22f8f-0bba-466b-bbbf-a52af76edfee.PNG">
 
-2. 로그인 후 음성변환 페이지 이동(TTS)<br>
+2. 로그인 후 음성변환(TTS) 페이지 이동<br>
 <img width="1431" alt="TTS2" src="https://user-images.githubusercontent.com/91955876/175069408-9e25b9e3-3382-4298-a05e-cdf62574165a.PNG">
 
 3. 음성 변환<br>
