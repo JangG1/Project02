@@ -22,8 +22,8 @@ Demo :
   
 <h3>📘 Library 📘</h3>
 <div>
-<img src="https://img.shields.io/badge/Axios-03C75A?style=for-the-badge&logo=Axios&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-4FC08D?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Axios-10A0CC?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Hybernate-59666C?style=for-the-badge&logo=Hybernate&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-4FC08D?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Maven&logoColor=white">
