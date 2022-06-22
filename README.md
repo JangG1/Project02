@@ -3,6 +3,8 @@
 <img width="1439" alt="PAGOBOOKSLOGO" src="https://user-images.githubusercontent.com/91955876/175069148-cb778f90-5370-4c09-9957-bf8f2d11a764.PNG">
 
 Demo : 
+<li>Papago API 1일 10,000자 무료 이용가능</li>
+<li>OCR/TTS/STT API 22/3/28 만료</li>
 
 <h3>🎯 Purpose 🎯</h3>
 <li> 코로나 방역 지침으로 인해 교육과정의 상당 부분이 비대면으로 전환되었습니다.<br>
