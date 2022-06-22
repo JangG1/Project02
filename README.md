@@ -56,10 +56,8 @@ Demo :
 
 <li> 음성변환 TTS (음성: nara / 언어: 한국어 / 볼륨: 0 / 속도: 0)
 
-  
-  <audio controls>
-    <source src='./assets/test.wav'>
-</audio>
+
+https://user-images.githubusercontent.com/91955876/175090364-714b7f7b-cc2c-4f79-af55-06365e70f02e.mov
 
 <h3>👷‍♂️ Improvements 👷‍♂️</h3>
 <li> 반응형 웹모바일 버전 구현 </li>
