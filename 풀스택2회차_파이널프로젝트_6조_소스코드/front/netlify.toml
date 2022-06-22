@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://pagobooks.netlify.app"
+  to = "http://localhost:8200"
+  status = 301
+  force = true
