@@ -25,13 +25,13 @@ Demo :
 <h3>📘 Library 📘</h3>
 <div>
 <img src="https://img.shields.io/badge/Axios-10A0CC?style=for-the-badge&logo=Axios&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Hybernate-59666C?style=for-the-badge&logo=Hybernate&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-4FC08D?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
-<img src="https://img.shields.io/badge/Lombok-DC382D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Lombok-DC382D?style=for-the-badge&logo=Lombok&logoColor=white">
 <img src="https://img.shields.io/badge/CLOBA API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </div>
 
