@@ -3,3 +3,4 @@
   to = "https://pagobooks.netlify.app"
   status = 301
   force = true
+ 
