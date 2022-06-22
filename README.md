@@ -54,6 +54,11 @@ Demo :
 3. 음성 변환<br>
 <img width="1432" alt="TTS3" src="https://user-images.githubusercontent.com/91955876/175069413-4f2a0bd3-486e-40b6-a0e4-1f89b0e13ffe.PNG">
 
+<li> 음성변환 TTS (음성: nara / 언어: 한국어 / 볼륨: 0 / 속도: 0)
+https://user-images.githubusercontent.com/91955876/175089779-2c635260-77be-453e-b3e8-956598ac8f85.mov
+
+
+
 <h3>👷‍♂️ Improvements 👷‍♂️</h3>
 <li> 반응형 웹모바일 버전 구현 </li>
 <li> 보관함의 Jqgrid를 이용한 UI 업데이트 </li>
