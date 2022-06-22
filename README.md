@@ -11,20 +11,20 @@ Demo :
 
 <h3>📚 Main Skill 📚</h3>
 https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
-
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 <h3>📘 Library 📘</h3>
 
 <h3>🔨 Advanced Feature 🔨</h3>
 
 
-메인화면
+1. 메인화면<br>
 <img width="1439" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/91955876/175069265-6fa22f8f-0bba-466b-bbbf-a52af76edfee.PNG">
 
-로그인 후
+2. 로그인 후<br>
 <img width="1431" alt="TTS2" src="https://user-images.githubusercontent.com/91955876/175069408-9e25b9e3-3382-4298-a05e-cdf62574165a.PNG">
 
-음성 변환
+3. 음성 변환<br>
 <img width="1432" alt="TTS3" src="https://user-images.githubusercontent.com/91955876/175069413-4f2a0bd3-486e-40b6-a0e4-1f89b0e13ffe.PNG">
 
 <h3>👷‍♂️ Improvements 👷‍♂️</h3>
