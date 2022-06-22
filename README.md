@@ -10,9 +10,27 @@ Demo :
 이 중, 비대면 수업의 문서화에 집중하려고 합니다 </li>
 
 <h3>📚 Main Skill 📚</h3>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   
 <h3>📘 Library 📘</h3>
+<img src="https://img.shields.io/badge/MyBatis-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Hybernate-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/SpringSecurity-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/JQuery-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Lombok-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/CLOBA API-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+
+<h3>📘 Library 📘</h3>
+<img src="https://img.shields.io/badge/VSCode-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 <h3>🔨 Advanced Feature 🔨</h3>
 
