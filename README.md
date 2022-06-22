@@ -5,7 +5,7 @@ Pago Books
 이러한 급격한 비대면 수업화로 인해 학교와 비대면 플랫폼 및 내외부 간의 문제가 끊임없이 부상하고 있다.
 이 중, 비대면 수업의 문서화에 집중하려고 한다
 
-<img width="727" alt="PAGOBOOKSLOGO" src="https://user-images.githubusercontent.com/91955876/175069148-cb778f90-5370-4c09-9957-bf8f2d11a764.PNG">
+<img width="1439" alt="PAGOBOOKSLOGO" src="https://user-images.githubusercontent.com/91955876/175069148-cb778f90-5370-4c09-9957-bf8f2d11a764.PNG">
 
 메인화면
 <img width="1439" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/91955876/175069265-6fa22f8f-0bba-466b-bbbf-a52af76edfee.PNG">
