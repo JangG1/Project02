@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Pago Books%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pago Books%20render&fontSize=90" />
 
 <hr>
 
@@ -32,3 +32,5 @@ https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedot
 <h3>👷‍♂️ Improvements 👷‍♂️</h3>
 <li> 반응형 웹모바일 버전 구현 </li>
 <li> 보관함의 Jqgrid를 이용한 UI 업데이트 </li>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&%20render&fontSize=90" />
