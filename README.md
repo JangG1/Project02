@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pago Books&fontSize=90"/>
 
+<hr>
+
 <img width="1439" alt="PAGOBOOKSLOGO" src="https://user-images.githubusercontent.com/91955876/175069148-cb778f90-5370-4c09-9957-bf8f2d11a764.PNG">
 
 Demo : 
