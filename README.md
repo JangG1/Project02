@@ -55,8 +55,8 @@ Demo :
 <img width="1432" alt="TTS3" src="https://user-images.githubusercontent.com/91955876/175069413-4f2a0bd3-486e-40b6-a0e4-1f89b0e13ffe.PNG">
 
 <li> 음성변환 TTS (음성: nara / 언어: 한국어 / 볼륨: 0 / 속도: 0)
-<audio controls="" ref="player">
-<source src="" type="audio/mpeg" ref="source" />
+<audio ref="player">
+<source src="" type="audio/mpeg" ref="source"/>
 </audio>
 
 <h3>👷‍♂️ Improvements 👷‍♂️</h3>
