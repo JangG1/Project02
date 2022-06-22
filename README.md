@@ -9,7 +9,7 @@ Demo :
 이러한 급격한 비대면 수업화로 인해 학교와 비대면 플랫폼 및 내외부 간의 문제가 끊임없이 부상하고 있습니다.<br>
 이 중, 비대면 수업의 문서화에 집중하려고 합니다 </li>
 
-<h3>📚 Stack 📚</h3>
+<h3>📚 Skill 📚</h3>
 <div>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -39,6 +39,7 @@ Demo :
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 </div>
 
 <h3>🔨 Advanced Feature 🔨</h3>
