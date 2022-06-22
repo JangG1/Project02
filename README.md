@@ -11,9 +11,9 @@ Demo :
 
 <h3>🎯 Purpose 🎯</h3>
 
-<h1>📚 Main Skill 📚</h1>
+<h3>📚 Main Skill 📚</h3>
 
-<h1>Advanced Feature</h1>
+<h3>Advanced Feature</h3>
 
 메인화면
 <img width="1439" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/91955876/175069265-6fa22f8f-0bba-466b-bbbf-a52af76edfee.PNG">
@@ -23,3 +23,6 @@ Demo :
 
 음성 변환
 <img width="1432" alt="TTS3" src="https://user-images.githubusercontent.com/91955876/175069413-4f2a0bd3-486e-40b6-a0e4-1f89b0e13ffe.PNG">
+
+<h3>👷‍♂️ Improvements ♂️</h3>
+<li> 반응형 웹모바일 버전 구현 </li>
