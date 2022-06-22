@@ -9,17 +9,20 @@ Demo :
 이러한 급격한 비대면 수업화로 인해 학교와 비대면 플랫폼 및 내외부 간의 문제가 끊임없이 부상하고 있습니다.<br>
 이 중, 비대면 수업의 문서화에 집중하려고 합니다 </li>
 
-<h3>📚 Main Skill 📚</h3>
+<h3>📚 Stack 📚</h3>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   
 <h3>📘 Library 📘</h3>
-<img src="https://img.shields.io/badge/MyBatis-4FC08D?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Hybernate-59666C?style=for-the-badge&logo=Hybernate&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-4FC08D?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Axios-03C75A?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-4FC08D?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Hybernate-59666C?style=for-the-badge&logo=Hybernate&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-4FC08D?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
@@ -30,6 +33,7 @@ Demo :
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 <h3>🔨 Advanced Feature 🔨</h3>
 
