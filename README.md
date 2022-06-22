@@ -30,7 +30,7 @@ Demo :
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Lombok-DC382D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/CLOBA API-#03C75A?style=for-the-badge&logo=Cloba&logoColor=white">
+<img src="https://img.shields.io/badge/CLOBA API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </div>
 
 <h3>🛠️ Tool 🛠️</h3>
