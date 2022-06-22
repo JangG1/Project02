@@ -13,7 +13,10 @@ Demo :
 
 <h3>📚 Main Skill 📚</h3>
 
-<h3>Advanced Feature</h3>
+<h3>📘 Library 📘</h3>
+
+<h3>🔨 Advanced Feature 🔨</h3>
+
 
 메인화면
 <img width="1439" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/91955876/175069265-6fa22f8f-0bba-466b-bbbf-a52af76edfee.PNG">
@@ -26,3 +29,4 @@ Demo :
 
 <h3>👷‍♂️ Improvements 👷‍♂️</h3>
 <li> 반응형 웹모바일 버전 구현 </li>
+<li> 보관함의 Jqgrid를 이용한 UI 업데이트 </li>
