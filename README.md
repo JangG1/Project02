@@ -10,7 +10,7 @@ Demo :
 이 중, 비대면 수업의 문서화에 집중하려고 합니다 </li>
 
 <h3>📚 Main Skill 📚</h3>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
   
 <h3>📘 Library 📘</h3>
 
