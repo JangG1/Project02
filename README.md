@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pago Books%20render&fontSize=90" />
-
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pago Books&fontSize=90"/>
 
 <img width="1439" alt="PAGOBOOKSLOGO" src="https://user-images.githubusercontent.com/91955876/175069148-cb778f90-5370-4c09-9957-bf8f2d11a764.PNG">
 
@@ -33,4 +31,4 @@ https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedot
 <li> 반응형 웹모바일 버전 구현 </li>
 <li> 보관함의 Jqgrid를 이용한 UI 업데이트 </li>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&fontSize=90" />
