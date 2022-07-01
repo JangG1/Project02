@@ -3,6 +3,7 @@
 <img width="1439" alt="PAGOBOOKSLOGO" src="https://user-images.githubusercontent.com/91955876/175069148-cb778f90-5370-4c09-9957-bf8f2d11a764.PNG">
 
 Demo : https://pagobooks.netlify.app
+Youtube : https://www.youtube.com/watch?v=PvQkeVR9OeA&t=8s
 <li>Netlify를 이용한 배포</li>
 <li>Papago API(간단번역) 1일 10,000자 무료 이용가능</li>
 <li>OCR/TTS/STT API 22/3/28 만료</li>
